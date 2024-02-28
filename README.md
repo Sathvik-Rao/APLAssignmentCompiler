@@ -1,3 +1,3 @@
 # APLAssignmentCompiler
 
-run -> javac APLAssignmentCompiler.java | java APLAssignmentCompiler InputFile.java
+compile and run -> javac APLAssignmentCompiler.java | java APLAssignmentCompiler InputFile.java
